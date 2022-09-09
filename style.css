@@ -1,0 +1,51 @@
+body{
+    background-image:
+            url("MC_The-Wild-Update_540x300.jpg");
+}
+h1{
+    position: absolute;
+    background-color:deeppink ;
+    color: darkgreen;
+    top: 5%;
+    width: 30ch
+}
+p{
+    position: absolute;
+    color:darkgreen;
+    top: 20% ;
+}
+#cta{
+    background:red;
+    position: absolute;
+    top: 10%;
+    right: 500px;
+}
+.lermer{
+    background-color:green;
+    position: absolute;
+    top: 10%;
+    right: 580px;
+}
+img{
+    position: absolute;
+    left: 80%;
+    bottom: 50%;
+
+}
+button{
+    position: absolute;
+    color: blue;
+}
+h2{
+    position: absolute;
+    width: 20ch;
+    bottom: 20%;
+    color: red;
+}
+*{
+    border-stylesolid: green;
+}
+
+
+
+
